@@ -1,0 +1,25 @@
+{
+  "name": "realtime-polling-app",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/huzaif007/realtime-polling-app#readme",
+  "bugs": {
+    "url": "https://github.com/huzaif007/realtime-polling-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huzaif007/realtime-polling-app.git"
+  },
+  "license": "ISC",
+  "author": "huzaif",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "socket.io": "^4.8.3",
+    "socket.io-client": "^4.8.3"
+  }
+}
