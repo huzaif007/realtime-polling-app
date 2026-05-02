@@ -58,13 +58,3 @@ Open a third terminal window and run:
 Bash
 node client.js
 Cast a vote in Terminal 2 by typing your choice (e.g., Node) and pressing Enter. Watch Terminal 3 update instantly!
-
-
----
-
-### The Final Step 🏁
-Once you paste that into your `README.md` file, run your quick GitHub routine one last time to upload it:
-```bash
-git add README.md
-git commit -m "docs: add professional README"
-git push origin main
